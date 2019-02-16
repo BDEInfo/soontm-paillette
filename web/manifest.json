@@ -1,0 +1,20 @@
+{
+  "short_name": "Coming Soon™",
+  "name": "Soirée Licorne, Paillettes et Félix",
+  "start_url": "/",
+  "background_color": "#cb70ea",
+  "Theme_color": "#f45a49",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
